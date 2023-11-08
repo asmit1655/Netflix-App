@@ -1,0 +1,15 @@
+.row{
+    padding: 1rem;
+    background-color: rgba(16, 16, 16 , 16);
+    >h2{
+        margin: 0.3rem;
+        font-weight: 400;
+        color: aliceblue;
+    }
+    >div{
+        display: flex;
+        // justify-content: space-evenly;
+        overflow-x: auto;
+        // margin: 1rem;
+    }
+}
